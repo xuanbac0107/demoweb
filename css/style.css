@@ -173,6 +173,10 @@ img {
     letter-spacing: 0.5px;
 }
 
+.header .logo-text {
+    display: none;
+}
+
 .nav-list {
     display: flex;
     gap: 10px;
