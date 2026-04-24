@@ -185,6 +185,7 @@ img {
     font-size: 0.95rem;
     position: relative;
     border-radius: 6px;
+    white-space: nowrap;
 }
 
 .nav-link:hover,
