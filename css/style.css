@@ -251,7 +251,7 @@ img {
     right: 0;
     width: 60%;
     height: 100%;
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="%23a5c4f0"/><stop offset="100%" stop-color="%23d6e4f7"/></linearGradient><linearGradient id="water" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="%234a7ab8"/><stop offset="100%" stop-color="%232d5a8f"/></linearGradient></defs><rect width="800" height="400" fill="url(%23sky)"/><rect y="400" width="800" height="200" fill="url(%23water)"/><rect x="500" y="200" width="60" height="200" fill="%23b0c7e0" opacity="0.6"/><rect x="570" y="150" width="50" height="250" fill="%23a0b9d5" opacity="0.6"/><rect x="630" y="180" width="55" height="220" fill="%23b0c7e0" opacity="0.6"/><rect x="695" y="120" width="65" height="280" fill="%239bb3d0" opacity="0.7"/><rect x="100" y="350" width="400" height="80" fill="%232d5a8f"/><rect x="120" y="280" width="60" height="70" fill="%23d94a4a"/><rect x="190" y="290" width="55" height="60" fill="%23e85a5a"/><rect x="255" y="285" width="60" height="65" fill="%23c63e3e"/><rect x="325" y="275" width="65" height="75" fill="%23d94a4a"/><rect x="400" y="290" width="55" height="60" fill="%23e85a5a"/></svg>');
+    background-image: url('../images/banner-cnc.png');
     background-size: cover;
     background-position: center;
     opacity: 0.85;
